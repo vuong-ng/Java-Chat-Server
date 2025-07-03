@@ -37,24 +37,24 @@ This project showcases fundamental concepts in system design, concurrency, and n
 
 2. **Compile the project:**
 
-```bash
-    mvn clean install
-```
+    ```bash
+        mvn clean install
+    ```
 3. **Compile and start the server:**
-```bash
-    javac ChatServer.java
-    java ChatServer
-```
+    ```bash
+        javac ChatServer.java
+        java ChatServer
+    ```
 4. **Compile and start the client:**
-```bash
-    javac ChatClient.java
-    java ChatServer
-```
+    ```bash
+        javac ChatClient.java
+        java ChatServer
+    ```
 5. **Compile Chat GUI:**
-```bash
-javac ChatClientGUI.java
-```
+    ```bash
+    javac ChatClientGUI.java
+    ```
 6. **Start Chat GUI:**
-```bash
-java ChatClientGUI
-```
+    ```bash
+    java ChatClientGUI
+    ```
