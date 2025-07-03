@@ -8,10 +8,8 @@ This project showcases fundamental concepts in system design, concurrency, and n
 
 - Real-time messaging using the WebSocket protocol
 - Multithreaded server supporting multiple clients concurrently
-- Graceful connection handling with session tracking
 - Java Swing-based GUI for client interface
 - Server-side message broadcasting
-- Clean modular codebase with separation of concerns
 
 ## Tech Stack
 
